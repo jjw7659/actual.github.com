@@ -1,4 +1,4 @@
-actual.github.com
+jjw7659.actual.github.com
 =================
 
 Actual repository
